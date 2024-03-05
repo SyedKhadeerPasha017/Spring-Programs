@@ -1,0 +1,10 @@
+eureka:      
+  client: 
+    registerWithEureka: false 
+    fetchRegistry: false 
+server: 
+  port: 8770 
+spring: 
+  application: 
+    name : CUSTOMER-SERVER 
+

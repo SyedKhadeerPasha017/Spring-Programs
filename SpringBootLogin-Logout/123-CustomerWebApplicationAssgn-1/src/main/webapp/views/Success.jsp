@@ -1,0 +1,1 @@
+<h1 style="color: skyblue">${message}</h1>
